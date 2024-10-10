@@ -8,4 +8,6 @@ clase main {
 		cout << "Hola caracola";
 	i++;
 	}
+
+	//añado información muy útil
 }

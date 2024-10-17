@@ -13,5 +13,5 @@ clase main {
 	string nombre = "Jose";
 
 	//Edito cosas a última hora antes de la entrega a producción
-	chachi
+	//Se implementa un algoritmo de búsqueda binaria
 }
